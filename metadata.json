@@ -1,0 +1,6 @@
+
+{
+  "name": "Design QA Tool",
+  "description": "An application to perform Design QA by manually comparing a design mockup with a live production screenshot. It allows you to annotate visual discrepancies and generate a report.",
+  "requestFramePermissions": []
+}
